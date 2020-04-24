@@ -6,6 +6,12 @@ If you decide to help support non-profits by working on Opportunity Hack this su
 3. There is no guarentee that you'll receive a job from the work you do with this internship.
 4. All of the work you do will be publically available (i.e. Slack, GitHub, demos will be recorded and published on YouTube) for any employer and for you to put in your portfolio.  Ideally the effort you put in is equal to your chances for success in the future.
 
+# Table of contents
+1. [Goals](#goals)
+2. [Projects](#projects)
+3. [Schedule](#schedule)
+
+
 # Goals
 1. Learn GitHub
 2. Agile - sprints, demos, planning
