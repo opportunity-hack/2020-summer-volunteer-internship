@@ -22,17 +22,49 @@ Non-profits are using paper forms.  The cost to digitize these forms to an HTML 
 
 ## 2. Simple Electronic Healthcare Records (EHR)
 Some non-profits have "clients" that require demographics and treatment to be tracked easily.  This usually requires some scheduling component as well as a historical record of visits with services provided, then reports follow.
+### Requirements
+- Easy registration
+- Record "treatments": medicine, music, painting
+- Role-based access
+- Secure
+- Export data to CSV
+### Examples
 - https://github.com/opportunity-hack/Arizona/issues/44
 - https://github.com/opportunity-hack/Arizona/issues/31
 
 ## 3. Risk Scoring
-Non-profits need a way to vet the standing of people, specifically for pets, as they want to be sure they are going to a nice home.
+Non-profits need a way to vet the standing of people, specifically for pets, as they want to be sure they are going to a nice home.  Given a social media profile (and potentially their network) that someone has granted access to, analyze the content of their posts to create a risk score to understand if there are any red flags for pet adoption.
 - https://github.com/opportunity-hack/Arizona/issues/43
 
-## 4. Topic modeling
+## 4. Data Analysis
 Analyze trends to recommend areas of focus
-https://github.com/opportunity-hack/Arizona/issues/36
+- https://github.com/opportunity-hack/Arizona/issues/36
 
+
+## 5. Volunteer registration and tracking
+Perform market research to recommend a system for all non-profts to use.
+### Requirements
+- Be able to list times available for volunteers along with location and duration of request
+- Be able to specify skill that is needed (e.g. painting, drywall, electrical, math tutor, etc.)
+- Increase communication between NPO and volunteers to increase engagement
+- Be able to find volunteer opportunities in a region
+- Be able to find opportunities that are good for families
+- Recommend volunteer opportunities based on previous experience
+
+## Examples
+- SignupGenius 
+
+
+## 6. Intelligent Donation Platform
+Increase recurring donations or volume of donations
+### Requirements
+- Recommend other items to donate: if someone donates a TV, ask if they also have shoes to donate
+- Cluster similar donors together to determine alternative marketing methods that may be more effective within the cohort
+
+
+## 7. Inventory management system
+
+## 8. Notification system
 
 
 
