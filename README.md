@@ -1,5 +1,6 @@
 # Read this first
 If you decide to help support non-profits by working on Opportunity Hack this summer, you need to be made aware of a few things.
+
 0. Opportunity Hack is run by volunteers who have full-time jobs.  We'll be making time to help you this summer.
 1. This is the first time we're doing this.
 2. We're doing this to provide experience and education over the summer for students who may have had difficulty in finding internships, either because they couldn't find one or because it was [cancelled](https://github.com/gcreddy42/hiring2020).
