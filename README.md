@@ -82,6 +82,7 @@ Increase recurring donations or volume of donations
 - Group C: June 12th to August 7th
 
 ## Agile meetings
+- Standups: Every Monday and Wednesday (via Slack).  
 - Demo meetings: Every 2 weeks on Friday - recorded and published to YouTube
 - Planning meetings: Every 2 weeks on Wednesday
 
