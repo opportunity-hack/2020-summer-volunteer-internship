@@ -38,6 +38,8 @@ These projects come from our years of experince working with non-profits, we sou
 
 
 ## 1. Digitize Paper Forms
+Slack Channel: #2020-vol-intern-digitize-paper-forms
+
 Non-profits are using paper forms.  The cost to digitize these forms to an HTML form in order to integrate it into their existing systems is difficult.  Google Forms is great, yes, but it still requires some effort and knowledge without allowing integration with existing software applications.  We have been working with ASU on two senior capstones around this problem that we can leverage as a head start.
 
 ### Requirements
@@ -57,6 +59,8 @@ Non-profits are using paper forms.  The cost to digitize these forms to an HTML 
 
 
 ## 2. Simple Electronic Healthcare Records (EHR)
+Slack Channel: #2020-vol-intern-simple-ehr
+
 Some non-profits have "clients" that require demographics and treatment to be tracked easily.  This usually requires some scheduling component as well as a historical record of visits with services provided, then reports follow.  There are open-source EHR solutions on the internet, but none are simple enough for non-profits to use without dedicated training.
 ### Requirements
 1. The solution shall allow for clients to register for the system, using Google Single Sign-on or system-based account creation
@@ -73,6 +77,8 @@ Some non-profits have "clients" that require demographics and treatment to be tr
 
 
 ## 3. Risk Scoring
+Slack Channel: #2020-vol-intern-risk-scoring
+
 Non-profits need a way to vet the standing of people, specifically for pets, as they want to be sure they are going to a nice home.  Given a social media profile (and potentially their network) that someone has granted access to, analyze the content of their posts to create a risk score to understand if there are any red flags for pet adoption.
 ### Requirements
 1. The solution shall collect posts and bio information from Facebook or Twitter
@@ -83,13 +89,25 @@ Non-profits need a way to vet the standing of people, specifically for pets, as 
 6. The solution shall store the risk score along with the URL that was provided to the potential animal adopter
 ### References
 - [Saving One Life Animal Rescue and Sanctuary](https://github.com/opportunity-hack/Arizona/issues/43) problem statement history from Opportunity Hack
+- [My First Machine Learning Project: Designing a Hate Speech Detecting Algorithm](https://towardsdatascience.com/my-first-machine-learning-project-designing-a-hate-speech-detecting-algorithm-56ab32f10833)
+- [Hate Speech Detection Using Natural
+Language Processing Techniques](https://science.vu.nl/en/Images/werkstuk-biere_tcm296-893877.pdf)
+
 
 ## 4. Data Analysis
+_Still working on these details_
+
+Slack Channel: #2020-vol-intern-data-analysis
+
 Analyze trends to recommend areas of focus
 - https://github.com/opportunity-hack/Arizona/issues/36
 
 
 ## 5. Volunteer registration and tracking
+_Still working on these details_
+
+Slack Channel: #2020-vol-intern-volunteer-registration-and-tracking
+
 Perform market research to recommend a system for all non-profts to use.
 ### Requirements
 1. Be able to list times available for volunteers along with location and duration of request
@@ -103,6 +121,8 @@ Perform market research to recommend a system for all non-profts to use.
 
 
 ## 6. Intelligent Donation Platform
+_Still working on these details_
+
 Increase recurring donations or volume of donations
 ### Requirements
 1. Recommend other items to donate: if someone donates a TV, ask if they also have shoes to donate
@@ -110,8 +130,11 @@ Increase recurring donations or volume of donations
 
 
 ## 7. Inventory management system
+_Still working on these details_
+
 
 ## 8. Notification system
+_Still working on these details_
 
 
 
