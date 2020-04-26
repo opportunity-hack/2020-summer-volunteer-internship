@@ -47,29 +47,42 @@ Non-profits are using paper forms.  The cost to digitize these forms to an HTML 
 4. The solution shall handle additional images in the future
 5. The solution shall store the data submitted in the form
 6. The solution shall be deployable via 1-button click with a service like [Heroku](https://www.heroku.com/)
-
 ### References
 - 2018 Proposal for ASU Tempe [Digitize Paper Forms with Machine Learning Part 1](https://docs.google.com/document/d/1xZSuvGs2s-AP4staL0lyeUUDJCBc_DggPglEpLoMZI8/edit?usp=sharing)
 - 2019 Proposal for ASU Tempe [Digitize Paper Forms with Machine Learning Part 2](https://docs.google.com/document/d/1nXNlYUaABAfAKbmi1ZnU79VgFa7B5NLPTkdw4dxIRVU/edit?usp=sharing)
-- [Example NPO problem](https://github.com/opportunity-hack/Arizona/issues/46)
+- [Mi Benefial Legal](https://github.com/opportunity-hack/Arizona/issues/46) problem statement history from Opportunity Hack
+- [National Kidney Foundation](https://github.com/opportunity-hack/Arizona/issues/24) problem statement history from Opportunity Hack
 - [2019-2020 ASU Capstone Github Repo](https://github.com/MrPanda1/YOLO-FormDataset)
 - [2018-2019 ASU Capstone GitHub Repo](https://github.com/opportunity-hack/digitize-paper-forms)
 
+
 ## 2. Simple Electronic Healthcare Records (EHR)
-Some non-profits have "clients" that require demographics and treatment to be tracked easily.  This usually requires some scheduling component as well as a historical record of visits with services provided, then reports follow.
+Some non-profits have "clients" that require demographics and treatment to be tracked easily.  This usually requires some scheduling component as well as a historical record of visits with services provided, then reports follow.  There are open-source EHR solutions on the internet, but none are simple enough for non-profits to use without dedicated training.
 ### Requirements
-1. Easy registration
-2. Record "treatments": medicine, music, painting
-3. Role-based access
-4. Secure
-5. Export data to CSV
-### Examples
-- https://github.com/opportunity-hack/Arizona/issues/44
-- https://github.com/opportunity-hack/Arizona/issues/31
+1. The solution shall allow for clients to register for the system, using Google Single Sign-on or system-based account creation
+2. The solution shall record "treatments": medicine provided, music session, painting
+3. The solution shall allow for role-based access: 
+4. The solution shall log an audit record of activity
+5. The solution shall be secure: (1) no security violations for packages, (2) strong authentication
+6. The solution shall use an existing framework (e.g. [Django](https://hackernoon.com/configure-role-based-access-control-in-django-74fa94a54aff)) that offers authentication and role-based access.
+7. The solution shall allow for data to be import via CSV including patient records and schedule
+8. The solution shall be deployable via 1-button click with a service like [Heroku](https://www.heroku.com/)
+### References
+- [Chandler CARE Center](https://github.com/opportunity-hack/Arizona/issues/44) problem statement history from Opportunity Hack
+- [Neurologic Music Therapy Services of Arizona (NMTSA)](https://github.com/opportunity-hack/Arizona/issues/31) problem statement history from Opportunity Hack
+
 
 ## 3. Risk Scoring
 Non-profits need a way to vet the standing of people, specifically for pets, as they want to be sure they are going to a nice home.  Given a social media profile (and potentially their network) that someone has granted access to, analyze the content of their posts to create a risk score to understand if there are any red flags for pet adoption.
-- https://github.com/opportunity-hack/Arizona/issues/43
+### Requirements
+1. The solution shall collect posts and bio information from Facebook or Twitter
+2. The solution shall provide a high risk score for accounts that use terms that indicate violence, hate, animal cruelty, and malice -  this likely means that you will be looking for accounts that already exhibit this, or you can create mock accounts to validate and test the scoring methodology
+3. The solution shall be deployable via 1-button click with a service like [Heroku](https://www.heroku.com/)
+4. The solution shall provide a URL that a non-profit can send to a potential animal adopter.  This potential animal adopter will use this URL to sign into either Facebook and Twitter to allow this application to collect data as stated above in order to collect data that may not be publically available per privacy settings the user has provided
+5. The solution shall not store data from the person's Facebook or Twitter account that is not private
+6. The solution shall store the risk score along with the URL that was provided to the potential animal adopter
+### References
+- [Saving One Life Animal Rescue and Sanctuary](https://github.com/opportunity-hack/Arizona/issues/43) problem statement history from Opportunity Hack
 
 ## 4. Data Analysis
 Analyze trends to recommend areas of focus
@@ -85,7 +98,7 @@ Perform market research to recommend a system for all non-profts to use.
 4. Be able to find volunteer opportunities in a region
 5. Be able to find opportunities that are good for families
 6. Recommend volunteer opportunities based on previous experience
-## Examples
+## References
 - SignupGenius 
 
 
