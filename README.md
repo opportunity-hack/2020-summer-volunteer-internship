@@ -38,7 +38,7 @@ These projects come from our years of experince working with non-profits, we sou
 
 
 ## 1. Digitize Paper Forms
-Slack Channel: #2020-vol-intern-digitize-paper-forms
+Slack Channel: `#2020-vol-intern-digitize-paper-forms`
 
 Non-profits are using paper forms.  The cost to digitize these forms to an HTML form in order to integrate it into their existing systems is difficult.  Google Forms is great, yes, but it still requires some effort and knowledge without allowing integration with existing software applications.  We have been working with ASU on two senior capstones around this problem that we can leverage as a head start.
 
@@ -59,7 +59,7 @@ Non-profits are using paper forms.  The cost to digitize these forms to an HTML 
 
 
 ## 2. Simple Electronic Healthcare Records (EHR)
-Slack Channel: #2020-vol-intern-simple-ehr
+Slack Channel: `#2020-vol-intern-simple-ehr`
 
 Some non-profits have "clients" that require demographics and treatment to be tracked easily.  This usually requires some scheduling component as well as a historical record of visits with services provided, then reports follow.  There are open-source EHR solutions on the internet, but none are simple enough for non-profits to use without dedicated training.
 ### Requirements
@@ -74,10 +74,12 @@ Some non-profits have "clients" that require demographics and treatment to be tr
 ### References
 - [Chandler CARE Center](https://github.com/opportunity-hack/Arizona/issues/44) problem statement history from Opportunity Hack
 - [Neurologic Music Therapy Services of Arizona (NMTSA)](https://github.com/opportunity-hack/Arizona/issues/31) problem statement history from Opportunity Hack
-
+- [2nd Place Opportunity Hack 2019 project](https://devpost.com/software/chandler-care-center-data-intake) for Chandler CARE Center
+- [Opportunity Hack 2017 project for NMTSA](https://devpost.com/software/team-3-nmtsa)
+- [Opportunity Hack 2019 project for NMTSA](https://devpost.com/software/nmtsa-scheduleapp)
 
 ## 3. Risk Scoring
-Slack Channel: #2020-vol-intern-risk-scoring
+Slack Channel: `#2020-vol-intern-risk-scoring`
 
 Non-profits need a way to vet the standing of people, specifically for pets, as they want to be sure they are going to a nice home.  Given a social media profile (and potentially their network) that someone has granted access to, analyze the content of their posts to create a risk score to understand if there are any red flags for pet adoption.
 ### Requirements
@@ -97,16 +99,21 @@ Language Processing Techniques](https://science.vu.nl/en/Images/werkstuk-biere_t
 ## 4. Data Analysis
 _Still working on these details_
 
-Slack Channel: #2020-vol-intern-data-analysis
+Slack Channel: `#2020-vol-intern-data-analysis`
 
-Analyze trends to recommend areas of focus
+### 4.1 Analyze trends to recommend areas of focus
 - https://github.com/opportunity-hack/Arizona/issues/36
+
+### 4.2 Allow non-profits to print forms, collect responses, scan them and easily analyze the data
+- Productionalize [Survey Stack](https://devpost.com/software/survey-stack) from Opportunity Hack 2018 for [Animals and Humans in Disaster Inc.](https://github.com/opportunity-hack/Arizona/issues/35), [RealTimeSTEAM](https://github.com/opportunity-hack/Arizona/issues/36), and [NMTSA](https://github.com/opportunity-hack/Arizona/issues/31).
+
 
 
 ## 5. Volunteer registration and tracking
+There are a ton of non-profits that want to allow volunteers to register on their website, 
 _Still working on these details_
 
-Slack Channel: #2020-vol-intern-volunteer-registration-and-tracking
+Slack Channel: `#2020-vol-intern-volunteer-registration-and-tracking`
 
 Perform market research to recommend a system for all non-profts to use.
 ### Requirements
