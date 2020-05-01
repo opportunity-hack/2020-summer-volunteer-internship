@@ -59,6 +59,7 @@ Non-profits are using paper forms.  The cost to digitize these forms to an HTML 
 - 2019 Proposal for ASU Tempe [Digitize Paper Forms with Machine Learning Part 2](https://docs.google.com/document/d/1nXNlYUaABAfAKbmi1ZnU79VgFa7B5NLPTkdw4dxIRVU/edit?usp=sharing)
 - [Mi Benefial Legal](https://github.com/opportunity-hack/Arizona/issues/46) problem statement history from Opportunity Hack
 - [National Kidney Foundation](https://github.com/opportunity-hack/Arizona/issues/24) problem statement history from Opportunity Hack
+- This [DevPost submission](https://devpost.com/software/a-2d-2-all-about-dat-data) from 2018 Opportunity Hack
 - [2019-2020 ASU Capstone Github Repo](https://github.com/MrPanda1/YOLO-FormDataset)
 - [2018-2019 ASU Capstone GitHub Repo](https://github.com/opportunity-hack/digitize-paper-forms)
 
@@ -79,11 +80,21 @@ Some non-profits have "clients" that require demographics and treatment to be tr
 ### References
 - [Chandler CARE Center](https://github.com/opportunity-hack/Arizona/issues/44) problem statement history from Opportunity Hack
 - [Neurologic Music Therapy Services of Arizona (NMTSA)](https://github.com/opportunity-hack/Arizona/issues/31) problem statement history from Opportunity Hack
+- [Sunshine Acres](https://github.com/opportunity-hack/Arizona/issues/23) problem statement from Opportunity Hack 2017
+- Both [Will2Walk](https://github.com/opportunity-hack/Arizona/issues/38) and [ICM Food and Clothing Bank](https://github.com/opportunity-hack/Arizona/issues/37) submitted a shared "progress tracking" problem statement at Opportunity Hack 2018
 - [2nd Place Opportunity Hack 2019 project](https://devpost.com/software/chandler-care-center-data-intake) for Chandler CARE Center
 - [Opportunity Hack 2017 project for NMTSA](https://devpost.com/software/team-3-nmtsa)
 - [Opportunity Hack 2019 project for NMTSA](https://devpost.com/software/nmtsa-scheduleapp)
 
-## 3. Risk Scoring
+
+## 3. Client Relationship Manager (CRM)
+_Still working on these details_
+
+This is the sister to the Lightweight EHR project above.  Instead of tracking health and progress of clients, non-profits typically do this with Excel or Google Forms and also manually integrate into DonorPerfect and other non-profit platforms.  SalesForce is the obvious leading solution here, [but still charges non-profits for use](https://www.salesforce.org/nonprofit_product/nonprofit-editions-pricing/).  Platforms like [SpiceCRM](https://www.spicecrm.io/) and [various open-source platforms](https://blog.capterra.com/free-and-open-source-crm/) are available, but non-profits don't have IT support right next to them, they need something simple and cost-effective.
+
+
+
+## 4. Risk Scoring
 Slack Channel: `#2020-vol-intern-risk-scoring`
 
 Non-profits need a way to vet the standing of people, specifically for pets, as they want to be sure they are going to a nice home.  Given a social media profile (and potentially their network) that someone has granted access to, analyze the content of their posts to create a risk score to understand if there are any red flags for pet adoption.
@@ -99,19 +110,6 @@ Non-profits need a way to vet the standing of people, specifically for pets, as 
 - [My First Machine Learning Project: Designing a Hate Speech Detecting Algorithm](https://towardsdatascience.com/my-first-machine-learning-project-designing-a-hate-speech-detecting-algorithm-56ab32f10833)
 - [Hate Speech Detection Using Natural
 Language Processing Techniques](https://science.vu.nl/en/Images/werkstuk-biere_tcm296-893877.pdf)
-
-
-## 4. Data Analysis
-_Still working on these details_
-
-Slack Channel: `#2020-vol-intern-data-analysis`
-
-### 4.1 Analyze trends to recommend areas of focus
-- https://github.com/opportunity-hack/Arizona/issues/36
-
-### 4.2 Allow non-profits to print forms, collect responses, scan them and easily analyze the data
-- Productionalize [Survey Stack](https://devpost.com/software/survey-stack) from Opportunity Hack 2018 for [Animals and Humans in Disaster Inc.](https://github.com/opportunity-hack/Arizona/issues/35), [RealTimeSTEAM](https://github.com/opportunity-hack/Arizona/issues/36), and [NMTSA](https://github.com/opportunity-hack/Arizona/issues/31).
-
 
 
 ## 5. Volunteer registration and tracking
@@ -142,13 +140,49 @@ Increase recurring donations or volume of donations
 
 
 ## 7. Inventory management system
+A large set of non-profits that would benefit from a solution here are food pantries (note the difference between [a food bank and a food pantry](https://www.feedingamerica.org/hunger-blog/what-difference-between-food-bank-and-food-pantry)).  There are large food pantries who likely have all of the software they need (including an integration with [Link2Feed](https://www.link2feed.com/)), but most of the smaller food pantries won't have everything they need, but still need to provide food for their client base.  An effective, free, solution here will benefit many food pantries.
+
+### Requirements
 _Still working on these details_
+
+### References
+- [Matthew's Crossing Food Bank](https://github.com/opportunity-hack/Arizona/issues/9) received many Opportunity Hack solutions over the years to the point where they likely don't have any more problems to solve.  Unfortunately, these custom solutions cannot be generally applied to other food pantries.
+- [Child Crisis AZ](https://github.com/opportunity-hack/Arizona/issues/15) problem statement form 2016 Opportunity Hack using QR codes to track inventory
+- [Joshua Tree](https://github.com/opportunity-hack/Arizona/issues/28) also hoped to use barcodes to track inventory from 2017 Opportunity Hack
 
 
 ## 8. Notification system
 _Still working on these details_
 
 
+## 9. Data Analysis
+_Still working on these details_
+
+Slack Channel: `#2020-vol-intern-data-analysis`
+
+### 9.1 Analyze trends to recommend areas of focus
+- https://github.com/opportunity-hack/Arizona/issues/36
+
+### 9.2 Allow non-profits to print forms, collect responses, scan them and easily analyze the data
+- Productionalize [Survey Stack](https://devpost.com/software/survey-stack) from Opportunity Hack 2018 for [Animals and Humans in Disaster Inc.](https://github.com/opportunity-hack/Arizona/issues/35), [RealTimeSTEAM](https://github.com/opportunity-hack/Arizona/issues/36), and [NMTSA](https://github.com/opportunity-hack/Arizona/issues/31).
+
+
+## 10. Recommend the best website platform for non-profits to use
+This project only requires significant research in this space, you'lll need to create (free/trial) accounts, Google your heart out, and document your analysis of the various options available for non-profits to use.  Instead of surgically repairing various websites, we would instead like to recommend a platform that non-profits can use.  We'd then use Opportunity Hack to work with them to move their content to this platform that you recommend.
+
+### Requirements
+1. A proper solution shall cost less than $20/month
+2. A solution shall allow for SEO to be configured and updated easily (ideally with no user input)
+3. A solution shall allow for non-profits to easily link to their social media accounts
+4. A solution shall allow for their social media accounts to easily link to specific posts on their website (e.g. you press "share" on the website and are able to make a Facebook/Twitter/LinkedIn post)
+5. A solution shall allow non-profits to change content easily
+6. A solution shall allow non-profits to easily configure donations
+7. A solution shall allow for proper security (e.g. using Google SSO or Facebook SSO for ease of use and increased security instead of maintaining security within the website)
+8. A solution shall provide significant documentation and various platforms and a cost/benefit analysis and comparison between products.  It may be useful to develop a scoring system in various categories so that you can clearly show the winner in this manner.
+9. Uncached page load times shall be less than or equal to 3 seconds - [ref](https://www.criticalcase.com/blog/what-is-page-load-time-and-why-it-is-important.html)
+### References
+- [Cece's Hope Center](https://github.com/opportunity-hack/Arizona/issues/40), [Impact One Breast Cancer Foundation](https://github.com/opportunity-hack/Arizona/issues/41), and [Newtown CDC](https://github.com/opportunity-hack/Arizona/issues/42) all were looking for help in this area at the 2018 Opportunity Hack
+- [Animals and Humans in Disaster Inc](https://github.com/opportunity-hack/Arizona/issues/35) also needs help in this space
 
 # Schedule
 ## Full Schedule
@@ -158,8 +192,8 @@ _Still working on these details_
 
 ## Getting started
 1. Join the Slack channel for the topic you want to work on
-2. Based on the availability of everyone, you may already have people who want to work on this project, if you want to work with a team, say "hi" and create a team.  It may be awkward, but you'll be fine.
-3. Once you have formed a team, create an Issue ticket [here in this GitHub project](https://github.com/opportunity-hack/2020-summer-volunteer-internship/issues/new/choose).  Click on "Get started" and fill out the template - one per team.
+2. Based on the availability of everyone, you may already have people who want to work on this project, if you want to work with a team, say "hi" and join a team.  It may be awkward, but you'll be fine.
+3. Once you have formed a team, [create a public Opportunity Hack Slack channel](https://www.google.com/search?q=creating+a+slack+channel&oq=creating+a+slack+channel) and invite your team, then an Issue ticket [here in this GitHub project](https://github.com/opportunity-hack/2020-summer-volunteer-internship/issues/new/choose).  Click on "Get started" and fill out the template - one per team.
 4. This ticket is where all of your documentation for the summer will live. For demos, you can either upload a video or link to YouTube, all designs and general discussions will live here.
 5. All of your code will go into https://github.com/2020-opportunityhack-voln-internship
    - You will need to Slack us in `#help-github` to ask for a project be created along with the GitHub username or email address we should assign as the owner to this repo.  
