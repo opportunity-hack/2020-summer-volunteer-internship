@@ -12,3 +12,4 @@ _Substitute anything in <> brackets with your values.  Remove this text before s
 ## <Team Name>
 - <First and last names of people on team along with their Git @usernames>
 - <Area of Focus/Problem Statement you are going to work on>
+- <Your team's public Slack channel on Opportunity Hack>
