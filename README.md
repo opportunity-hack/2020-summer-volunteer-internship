@@ -151,11 +151,27 @@ _Still working on these details_
 - Group B: May 22nd to July 17th
 - Group C: June 12th to August 7th
 
+## Getting started
+1. Join the Slack channel for the topic you want to work on
+2. Based on the availability of everyone, you may already have people who want to work on this project, if you want to work with a team, say "hi" and create a team.  It may be awkward, but you'll be fine.
+3. Once you have formed a team, create an Issue ticket [here in this GitHub project](https://github.com/opportunity-hack/2020-summer-volunteer-internship/issues/new/choose).  Click on "Get started" and fill out the template - one per team.
+4. This ticket is where all of your documentation for the summer will live. For demos, you can either upload a video or link to YouTube, all designs and general discussions will live here.
+5. All of your code will go into https://github.com/2020-opportunityhack-voln-internship
+- You will need to Slack us in `#help-github` to ask for a project be created along with the GitHub username or email address we should assign as the owner to this repo.  
+- Once added, you'll receive an email *that you must accept* then you'll be able to add the rest of your team.
+6. You should now start researching previous Opportunity Hack DevPost and GitHub submissions (and even Slack history), planning with your team how you'll attack your problem, and get off to the races!
+
 ## Agile meetings
-- Standups: Every Monday and Wednesday (via Slack).  
-- Demo meetings: Every 2 weeks on Friday - recorded and published to YouTube
-- Planning meetings: Every 2 weeks on Wednesday
+### Standups
+Every Monday and Wednesday (via Slack).  You'll be messaged by Dixi App every Monday and Wednesday to ask for status.  That status will then be shared in your team's Slack channel for everyone to see once everyone has provided their standup details.
+
+### Demo meetings
+Every 2 weeks on Friday - recorded and published to YouTube.  You'll get a reminder in Slack, and by the end of the day you should have a 4-minute or less video describing your contributions to the project for those 2 weeks.  Each person will create their own demo video.
+
+### Planning meetings
+Every 2 weeks on Wednesday.  You should meet with your teams via Google Meet, Zoom, Slack call, or Slack chat to take stock of where you are at now and what needs to be done.  In order to track this work, we'd recommend you use a [Trello board like this](https://trello.com/templates/engineering/agile-sprint-board-ZqN99gGN), but this is completely up to you and your team.
 
 ## Mentor "office hours"
 - Every week to start for the first 2 weeks
 - Switch to 2-week meetings after first 2 weeks
+- We'll be using Google Meet and the link will be provided in our `#2020-vol-intern-general` Slack chat
