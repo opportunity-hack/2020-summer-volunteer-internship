@@ -162,8 +162,8 @@ _Still working on these details_
 3. Once you have formed a team, create an Issue ticket [here in this GitHub project](https://github.com/opportunity-hack/2020-summer-volunteer-internship/issues/new/choose).  Click on "Get started" and fill out the template - one per team.
 4. This ticket is where all of your documentation for the summer will live. For demos, you can either upload a video or link to YouTube, all designs and general discussions will live here.
 5. All of your code will go into https://github.com/2020-opportunityhack-voln-internship
-- You will need to Slack us in `#help-github` to ask for a project be created along with the GitHub username or email address we should assign as the owner to this repo.  
-- Once added, you'll receive an email *that you must accept* then you'll be able to add the rest of your team.
+   - You will need to Slack us in `#help-github` to ask for a project be created along with the GitHub username or email address we should assign as the owner to this repo.  
+   - Once added, you'll receive an email *that you must accept* then you'll be able to add the rest of your team.
 6. You should now start researching previous Opportunity Hack DevPost and GitHub submissions (and even Slack history), planning with your team how you'll attack your problem, and get off to the races!
 
 ## Agile meetings
