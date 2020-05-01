@@ -13,6 +13,9 @@ If you decide to help support non-profits by working on Opportunity Hack this su
 1. [Outcomes](#outcomes)
 2. [Projects](#projects)
 3. [Schedule](#schedule)
+   1. [Standups](#standups)
+   1. [Demo meetings](#demo-meetings)
+   1. [Mentor "office hours"](#mentor-office-hours)
 
 
 # Outcomes
