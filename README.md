@@ -165,6 +165,9 @@ _Still working on these details_
 ### Standups
 Every Monday and Wednesday (via Slack).  You'll be messaged by Dixi App every Monday and Wednesday to ask for status.  That status will then be shared in your team's Slack channel for everyone to see once everyone has provided their standup details.
 
+Here's an example of what this will look like
+![standup](dixi_standup.png)
+
 ### Demo meetings
 Every 2 weeks on Friday - recorded and published to YouTube.  You'll get a reminder in Slack, and by the end of the day you should have a 4-minute or less video describing your contributions to the project for those 2 weeks.  Each person will create their own demo video.
 
