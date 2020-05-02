@@ -4,9 +4,9 @@ If you decide to help support non-profits by working on Opportunity Hack this su
 0. Opportunity Hack is run by volunteers who have full-time jobs.  We'll be making time to help you this summer.
 1. This is the first time we're doing this.
 2. We're doing this to provide experience and education over the summer for students who may have had difficulty in finding internships, either because they couldn't find one or because it was [cancelled](https://github.com/gcreddy42/hiring2020).
-3. There is no guarentee that you'll receive a job from the work you do with this internship.
-4. All of the work you do will be publically available (i.e. Slack, GitHub, demos will be recorded and published on YouTube) for any employer and for you to put in your portfolio.  Ideally the effort you put in is equal to your chances for success in the future.
-5. We cannot offer official letters of employement (if you are on a visa) as we are a group of people who volunteer our technology-focused minds to help non-profits.  You'd be joining us in our guild.  Hopefully by the same time next year we'll have an official non-profit and we can help with letters of employement.  This is not an unpaid internship, this is you volunteering your time over the summer.
+3. There is no guarantee that you'll receive a job from the work you do with this internship.
+4. All of the work you do will be publicly available (i.e. Slack, GitHub, demos will be recorded and published on YouTube) for any employer and for you to put in your portfolio.  Ideally the effort you put in is equal to your chances for success in the future.
+5. We cannot offer official letters of employment (if you are on a visa) as we are a group of people who volunteer our technology-focused minds to help non-profits.  You'd be joining us in our guild.  Hopefully by the same time next year we'll have an official non-profit and we can help with letters of employment.  This is not an unpaid internship, this is you volunteering your time over the summer.
 
 
 # Table of contents
@@ -39,7 +39,7 @@ Some other things:
 3. Making connections with you
 
 # Projects
-These projects come from our years of experince working with non-profits, we sought to generalize the problems we see in order to impact many non-profits, so although you'll see a few called out, we intend for these solutions to be used at scale, globally, at a relatively inexpensive price point.
+These projects come from our years of experience working with non-profits, we sought to generalize the problems we see in order to impact many non-profits, so although you'll see a few called out, we intend for these solutions to be used at scale, globally, at a relatively inexpensive price point.
 
 
 ## 1. Digitize Paper Forms
@@ -186,9 +186,8 @@ This project only requires significant research in this space, you'lll need to c
 
 # Schedule
 ## Full Schedule
-- Group A: May 8th to July 3rd
-- Group B: May 22nd to July 17th
-- Group C: June 12th to August 7th
+We're starting on May 8th and we're calling August 7th our end.
+
 
 ## Getting started
 1. Join the Slack channel for the topic you want to work on
