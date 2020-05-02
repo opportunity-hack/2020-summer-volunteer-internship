@@ -1,5 +1,8 @@
 👉 [Check out this YouTube video for a walkthrough](https://youtu.be/GHVl0YPveoQ)
 
+👉 [Original LinkedIn post](https://www.linkedin.com/posts/gregvannoni_summer-2020-internship-survey-activity-6658239700710633472-EU_T)
+
+
 # Read this first
 If you decide to help support non-profits by working on Opportunity Hack this summer, you need to be made aware of a few things.
 
