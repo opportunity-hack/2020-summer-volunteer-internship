@@ -1,3 +1,5 @@
+👉 [Check out this YouTube video for a walkthrough](https://youtu.be/GHVl0YPveoQ)
+
 # Read this first
 If you decide to help support non-profits by working on Opportunity Hack this summer, you need to be made aware of a few things.
 
