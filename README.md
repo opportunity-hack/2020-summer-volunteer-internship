@@ -2,6 +2,7 @@
 
 👉 [Original LinkedIn post](https://www.linkedin.com/posts/gregvannoni_summer-2020-internship-survey-activity-6658239700710633472-EU_T)
 
+👉 [This is the end-goal](https://padlet.com/gregvannoni/c9gopoit4i1aku59): tie everything together in opportunityhack.io
 
 # Read this first
 If you decide to help support non-profits by working on Opportunity Hack this summer, you need to be made aware of a few things.
@@ -195,6 +196,7 @@ We use [opportunity-hack.org](http://opportunity-hack.org/) to discuss our annua
 2. Find recommendations for other solutions currently available along with our seal of approval recommending that they use them (because we've already tried them out)
 One key thing that limits productivity of non-profits are separate systems that are not connected to one another.  While an existing solution may work for them initially, over time they will likely save cost and time by moving to an opportunityhack.io solution that combines many solutions into one platform.
 ### Requirements
+0. [Be sure to read this padlet](https://padlet.com/gregvannoni/c9gopoit4i1aku59) that illustrates the end-goal of all of these projects: opportunityhack.io.
 1. This solution shall use [Gatsby](https://www.gatsbyjs.org/) and [Netlify (free tier)](https://www.netlify.com/).  We normally don't lock solutions down to specifics, but in this case, we'd like this to be the technology for our solution.
 2. This solution will give you autonomy and artistic license to create this website as you see fit.  Please check out our previous images [on Facebook](https://www.facebook.com/opportunityhack) and [opportunity-hack.org](http://opportunity-hack.org) to get a feel for what we already have as a good foundation for your creation.
 3. This solution shall have its code stored in GitHub (just like all of the rest of the projects, but extremely important for us so that we can move what you've built over to opportunityhack.io).
