@@ -174,16 +174,39 @@ _Still working on these details_
 _Still working on these details_
 
 
-## 9. Data Analysis
-_Still working on these details_
 
+
+## 9. Data Analysis
 Slack Channel: `#2020-vol-intern-data-analysis`
 
-### 9.1 Analyze trends to recommend areas of focus
-- https://github.com/opportunity-hack/Arizona/issues/36
+### 9.1 Analyze trends to recommend areas of STEM focus
+For Opportunity Hack 2019, [RealTimeSTEAM](https://github.com/opportunity-hack/Arizona/issues/36) was looking for a way to analyze data on the web in order to provide their own staff, along with teachers and parents a better way to introduce [STEAM](https://theconversation.com/explainer-whats-the-difference-between-stem-and-steam-95713) concepts to children.  If there was a way to intersect popular culture with science and technology, as these things evolve, it would provide new educational ideas.
+#### Requirements
+1. Only use the free API versions of associated websites
+2. This solution shall provide a YouTube walkthrough of how to use this product
+3. This solution shall overlay popular culture with STEAM lessons for high school and specifically target ages 15 and 16, both male and female
+4. This solution shall understand current popular culture using IMDB, Twitter, Twitch, Google Trends, YouTube, [Steam](https://store.steampowered.com/), Reddit, and Wikipedia.  This is a giant list, so start with one area before trying to add another data source
+5. Given a STEAM-related search word (e.g. gravity), the system shall output popular culture trends (e.g. movies, wikipedia pages, popular Tweets/Twitch streams/YouTube videos) that relate to the given STEAM-related word.
+6. When the application first loads, it should provide a list of STEAM-curriculum filtered by age (either 15 or 16 with the default filter set to both ages 15 and 16).  Next to each STEAM-curriculum item the application shall provide any recent popular culture references that relate to that STEAM-curriculum item.
+7. Aside from being able to filter for age 15 or 16, the application shall also allow the user to filter popular culture references by male-biased ([movie examples for boys](https://www.ranker.com/list/best-disney-movies-for-boys/ranker-film)) or female-biased ([movie examples for girls](https://www.ranker.com/list/best-disney-movies-for-girls/ranker-film)) references.  Here, for example, we'd expect to see some relationship to STEAM topics on physics (e.g. gravity) to the movie [Up](https://www.imdb.com/title/tt1049413/) or fluid dynamics related to [The Little Mermaid](https://www.imdb.com/title/tt0097757/)
+8. "Recent" popular culture trends shall be defined as the last 2 years
+
+#### References
+- You'll see that Team 6 ([DevPost submission](https://devpost.com/software/team-6-o75mv0) / [Code](https://github.com/2019-Arizona-Opportunity-Hack/Team-6)) did some awesome work in this space, including a complete Heroku deployment.  Create a free Heroku account and try to deploy this app so you can test it out.  Once deployed, enter a STEM-related search term to see the wordcloud output.
+- Use the power of Google to find STEAM topics for kids ages 15 and 16, [here is one example](https://www.teachengineering.org/curriculum/browse?collection=Lessons).  You'll use this as the core mechanism to relate popular culture references back to STEAM topics
+- Understand that [most girls lose their interest in STEAM at age 15](https://redtri.com/this-is-the-exact-age-when-girls-lose-interest-in-math-and-science/)
+- Read [Why do girls lose interest in STEM?](https://news.microsoft.com/features/why-do-girls-lose-interest-in-stem-new-research-has-some-answers-and-what-we-can-do-about-it/) and notice the decline in STEM-related interest in high school for girls
+- Read [New study suggests STEM education needs a rebrand](https://www.11alive.com/article/news/new-study-suggests-stem-education-needs-a-rebrand/466313345) to understand why we need popular culture references to make STEAM look cool.
 
 ### 9.2 Allow non-profits to print forms, collect responses, scan them and easily analyze the data
-- Productionalize [Survey Stack](https://devpost.com/software/survey-stack) from Opportunity Hack 2018 for [Animals and Humans in Disaster Inc.](https://github.com/opportunity-hack/Arizona/issues/35), [RealTimeSTEAM](https://github.com/opportunity-hack/Arizona/issues/36), and [NMTSA](https://github.com/opportunity-hack/Arizona/issues/31).
+This one is pretty straightforward.  We'd like to take an existing winning idea and scale it for other non-profits to use.
+#### Requirements
+- Productionalize [Survey Stack](https://devpost.com/software/survey-stack) from Opportunity Hack 2018 ([GitHub code](https://github.com/2018-Arizona-Opportunity-Hack/Team7) | [PowerPoint Presentation](https://1drv.ms/p/s!Ap-vzKL-zTy9t2QmDqAUkrEspB3E)) for [Animals and Humans in Disaster Inc.](https://github.com/opportunity-hack/Arizona/issues/35), [RealTimeSTEAM](https://github.com/opportunity-hack/Arizona/issues/36), and [NMTSA](https://github.com/opportunity-hack/Arizona/issues/31)
+- The solution shall use Heroku and shall be deployable in a single click from the project's GitHub
+- The solution shall be usable by at least 3 different non-profits, but the data shall not be co-mingled.  Each non-profit will spin up their own Heroku instance
+- The solution shall email a provided email address provided during Heroku spin-up when a new form is submitted
+- The documentation provided for this solution shall include a video demo walkthrough of how to use the solution
+- The documentation provided for this solution shall include the forms used as part of the demo
 
 
 ## 10. Recommend the best website platform for non-profits to use
