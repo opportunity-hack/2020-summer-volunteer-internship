@@ -1,3 +1,5 @@
+#️⃣ Slack invites will be sent via email to everyone, please register [here](https://docs.google.com/forms/d/e/1FAIpQLSefYuPFtqgVetZwNLtDzB7yi8NTeSrSSm9Luk4JehV8mPfM1Q/viewform)
+
 👉 [Check out this YouTube video for a walkthrough](https://youtu.be/GHVl0YPveoQ)
 
 👉 [Original LinkedIn post](https://www.linkedin.com/posts/gregvannoni_summer-2020-internship-survey-activity-6658239700710633472-EU_T)
