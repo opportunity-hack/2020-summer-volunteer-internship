@@ -199,7 +199,7 @@ For Opportunity Hack 2019, [RealTimeSTEAM](https://github.com/opportunity-hack/A
 - Read [New study suggests STEM education needs a rebrand](https://www.11alive.com/article/news/new-study-suggests-stem-education-needs-a-rebrand/466313345) to understand why we need popular culture references to make STEAM look cool.
 
 ### 9.2 Allow non-profits to print forms, collect responses, scan them and easily analyze the data
-This one is pretty straightforward.  We'd like to take an existing winning idea and scale it for other non-profits to use.
+This one is pretty straightforward.  We'd like to take an existing winning idea and scale it for other non-profits to use. Some non-profits cannot afford tablets or don't want to go through the trouble of emailing/texting forms, they would still rather use a combination of paper and digital forms.  This solution hopefully bridges this gap a little more effectively than requiring a human to review paper forms.
 #### Requirements
 - Productionalize [Survey Stack](https://devpost.com/software/survey-stack) from Opportunity Hack 2018 ([GitHub code](https://github.com/2018-Arizona-Opportunity-Hack/Team7) | [PowerPoint Presentation](https://1drv.ms/p/s!Ap-vzKL-zTy9t2QmDqAUkrEspB3E)) for [Animals and Humans in Disaster Inc.](https://github.com/opportunity-hack/Arizona/issues/35), [RealTimeSTEAM](https://github.com/opportunity-hack/Arizona/issues/36), and [NMTSA](https://github.com/opportunity-hack/Arizona/issues/31)
 - The solution shall use Heroku and shall be deployable in a single click from the project's GitHub
