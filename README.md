@@ -174,7 +174,6 @@ Slack Channel: `#2020-vol-intern-data-analysis`
 
 ## 10. Recommend the best website platform for non-profits to use
 This project only requires significant research in this space, you'lll need to create (free/trial) accounts, Google your heart out, and document your analysis of the various options available for non-profits to use.  Instead of surgically repairing various websites, we would instead like to recommend a platform that non-profits can use.  We'd then use Opportunity Hack to work with them to move their content to this platform that you recommend.
-
 ### Requirements
 1. A proper solution shall cost less than $20/month
 2. A solution shall allow for SEO to be configured and updated easily (ideally with no user input)
@@ -188,6 +187,23 @@ This project only requires significant research in this space, you'lll need to c
 ### References
 - [Cece's Hope Center](https://github.com/opportunity-hack/Arizona/issues/40), [Impact One Breast Cancer Foundation](https://github.com/opportunity-hack/Arizona/issues/41), and [Newtown CDC](https://github.com/opportunity-hack/Arizona/issues/42) all were looking for help in this area at the 2018 Opportunity Hack
 - [Animals and Humans in Disaster Inc](https://github.com/opportunity-hack/Arizona/issues/35) also needs help in this space
+
+
+## 11. Create the new OpportunityHack.io
+We use [opportunity-hack.org](http://opportunity-hack.org/) to discuss our annual, global hackathons.  As we continue to create solutions that all non-profits can use, we want to build out the NPOaaS (Non-proft as a service) platform on opportunityhack.io.  This website will allow any non-profit to:
+1. Find all relevant solutions we've created for them
+2. Find recommendations for other solutions currently available along with our seal of approval recommending that they use them (because we've already tried them out)
+One key thing that limits productivity of non-profits are separate systems that are not connected to one another.  While an existing solution may work for them initially, over time they will likely save cost and time by moving to an opportunityhack.io solution that combines many solutions into one platform.
+### Requirements
+1. This solution shall use [Gatsby](https://www.gatsbyjs.org/) and [Netlify (free tier)](https://www.netlify.com/).  We normally don't lock solutions down to specifics, but in this case, we'd like this to be the technology for our solution.
+2. This solution will give you autonomy and artistic license to create this website as you see fit.  Please check out our previous images [on Facebook](https://www.facebook.com/opportunityhack) and [opportunity-hack.org](http://opportunity-hack.org) to get a feel for what we already have as a good foundation for your creation.
+3. This solution shall have its code stored in GitHub (just like all of the rest of the projects, but extremely important for us so that we can move what you've built over to opportunityhack.io).
+4. opportunityhack.io shall have various sections as outlined in the above projects (for instance, "Digitize Paper Forms"). As background for you, these solutions will be provided as open-source, and also should be deployed with one-click using Heroku.  We will provide documentation, GitHub links, Heroku links, and a video walkthrough for each solution.  In the future, non-profits will be able to combine solutions together (e.g. CRM + notifications or Inventory Management + additional data analysis).
+5. This solution may have mocked out Heroku and user screens that show how a non-profit would interact with this website.  Although we don't yet have this platform built, we would still love to have some help laying the foundation for what we think opportunityhack.io could be.
+### References
+- This [article on technologyadvice.com](https://technologyadvice.com/nonprofit/) discusses the various software platforms available to non-profits.  You can see the struggle that non-profits have with various CRM, donor management, email marketing, and accounting platforms.
+- This [Medium article](https://medium.com/verticalchangehq/saas-for-nonprofit-3a5a70099824) also discusses the challenges that many non-profits face.
+
 
 # Schedule
 ## Full Schedule
