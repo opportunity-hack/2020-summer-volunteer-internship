@@ -62,7 +62,7 @@ These projects come from our years of experience working with non-profits, we so
 
 
 ## 1. Digitize Paper Forms
-Slack Channel: `#2020-vol-intern-digitize-paper-forms`
+#️⃣ Slack Channel: `#2020-vol-intern-digitize-paper-forms`
 
 Non-profits are using paper forms.  The cost to digitize these forms to an HTML form in order to integrate it into their existing systems is difficult.  Google Forms is great, yes, but it still requires some effort and knowledge without allowing integration with existing software applications.  We have been working with ASU on two senior capstones around this problem that we can leverage as a head start.
 
@@ -84,7 +84,7 @@ Non-profits are using paper forms.  The cost to digitize these forms to an HTML 
 
 
 ## 2. Simple Electronic Healthcare Records (EHR)
-Slack Channel: `#2020-vol-intern-simple-ehr`
+#️⃣ Slack Channel: `#2020-vol-intern-simple-ehr`
 
 Some non-profits have "clients" that require demographics and treatment to be tracked easily.  This usually requires some scheduling component as well as a historical record of visits with services provided, then reports follow.  There are open-source EHR solutions on the internet, but none are simple enough for non-profits to use without dedicated training.
 ### Requirements
@@ -107,6 +107,8 @@ Some non-profits have "clients" that require demographics and treatment to be tr
 
 
 ## 3. Client Relationship Manager (CRM)
+#️⃣ Slack Channel: `#2020-vol-intern-crm`
+
 _Still working on these details_
 
 This is the sister to the Lightweight EHR project above.  Instead of tracking health and progress of clients, non-profits typically do this with Excel or Google Forms and also manually integrate into DonorPerfect and other non-profit platforms.  SalesForce is the obvious leading solution here, [but still charges non-profits for use](https://www.salesforce.org/nonprofit_product/nonprofit-editions-pricing/).  Platforms like [SpiceCRM](https://www.spicecrm.io/) and [various open-source platforms](https://blog.capterra.com/free-and-open-source-crm/) are available, but non-profits don't have IT support right next to them, they need something simple and cost-effective.
@@ -114,7 +116,7 @@ This is the sister to the Lightweight EHR project above.  Instead of tracking he
 
 
 ## 4. Risk Scoring
-Slack Channel: `#2020-vol-intern-risk-scoring`
+#️⃣ Slack Channel: `#2020-vol-intern-risk-scoring`
 
 Non-profits need a way to vet the standing of people, specifically for pets, as they want to be sure they are going to a nice home.  Given a social media profile (and potentially their network) that someone has granted access to, analyze the content of their posts to create a risk score to understand if there are any red flags for pet adoption.
 ### Requirements
@@ -132,10 +134,11 @@ Language Processing Techniques](https://science.vu.nl/en/Images/werkstuk-biere_t
 
 
 ## 5. Volunteer registration and tracking
+#️⃣ Slack Channel: `#2020-vol-intern-volunteer-registration-and-tracking`
+
 There are a ton of non-profits that want to allow volunteers to register on their website, 
 _Still working on these details_
 
-Slack Channel: `#2020-vol-intern-volunteer-registration-and-tracking`
 
 Perform market research to recommend a system for all non-profts to use.
 ### Requirements
@@ -150,6 +153,8 @@ Perform market research to recommend a system for all non-profts to use.
 
 
 ## 6. Intelligent Donation Platform
+#️⃣ Slack channel: `#2020-vol-intern-intelligent-donations`
+
 _Still working on these details_
 
 Increase recurring donations or volume of donations
@@ -159,6 +164,8 @@ Increase recurring donations or volume of donations
 
 
 ## 7. Inventory management system
+#️⃣ Slack channel: `#2020-vol-intern-inventory`
+
 A large set of non-profits that would benefit from a solution here are food pantries (note the difference between [a food bank and a food pantry](https://www.feedingamerica.org/hunger-blog/what-difference-between-food-bank-and-food-pantry)).  There are large food pantries who likely have all of the software they need (including an integration with [Link2Feed](https://www.link2feed.com/)), but most of the smaller food pantries won't have everything they need, but still need to provide food for their client base.  An effective, free, solution here will benefit many food pantries.
 
 ### Requirements
@@ -171,13 +178,25 @@ _Still working on these details_
 
 
 ## 8. Notification system
-_Still working on these details_
+#️⃣ Slack Channel: `#2020-vol-intern-notifications`
 
+For Opportunity Hack 2018, [Children's Cancer Network](https://github.com/opportunity-hack/Arizona/issues/8) used Constant Contact, but was missing a mechanism to text clients to ask for them to RSVP, gather how many people responded to a given survey, and wanted to have a simple method to reach out. A great solution [Easy Message](https://devpost.com/software/easy-message) and we would love to see this push into production so that more non-profits can benefit from it.
+
+### Requirements
+0. The solution shall re-use the code provided by the Easy Message team's submission from Opportunity Hack 2018
+1. The solution shall be one-click deployable using Heroku
+2. The solution shall prompt for Twilio API information only on first startup
+3. The solution shall implement single sign-on security using Google (or Facebook) single sign-on, so that only specific users are able to login
+4. The solution shall include a demo video walkthrough of how to use the product so that non-profits will be able to use the system
+
+### References
+- The team's DevPost submission is [here](https://devpost.com/software/easy-message)
+- Although the main code is in GitHub [here](https://github.com/2018-Arizona-Opportunity-Hack/Team19) you'll need to check the [forks](https://github.com/2018-Arizona-Opportunity-Hack/Team19/network/members) as some code there looks to be more updated in the forks.
 
 
 
 ## 9. Data Analysis
-Slack Channel: `#2020-vol-intern-data-analysis`
+#️⃣ Slack Channel: `#2020-vol-intern-data-analysis`
 
 ### 9.1 Analyze trends to recommend areas of STEM focus
 For Opportunity Hack 2019, [RealTimeSTEAM](https://github.com/opportunity-hack/Arizona/issues/36) was looking for a way to analyze data on the web in order to provide their own staff, along with teachers and parents a better way to introduce [STEAM](https://theconversation.com/explainer-whats-the-difference-between-stem-and-steam-95713) concepts to children.  If there was a way to intersect popular culture with science and technology, as these things evolve, it would provide new educational ideas.
@@ -210,6 +229,8 @@ This one is pretty straightforward.  We'd like to take an existing winning idea 
 
 
 ## 10. Recommend the best website platform for non-profits to use
+#️⃣ Slack channel: `#2020-vol-intern-best-website-platform`
+
 This project only requires significant research in this space, you'lll need to create (free/trial) accounts, Google your heart out, and document your analysis of the various options available for non-profits to use.  Instead of surgically repairing various websites, we would instead like to recommend a platform that non-profits can use.  We'd then use Opportunity Hack to work with them to move their content to this platform that you recommend.
 ### Requirements
 1. A proper solution shall cost less than $20/month
@@ -228,6 +249,8 @@ This project only requires significant research in this space, you'lll need to c
 
 
 ## 11. Create the new OpportunityHack.io
+#️⃣ Slack channel: `#2020-vol-intern-opportunityhackio'
+
 We use [opportunity-hack.org](http://opportunity-hack.org/) to discuss our annual, global hackathons.  As we continue to create solutions that all non-profits can use, we want to build out the NPOaaS (Non-proft as a service) platform on opportunityhack.io.  This website will allow any non-profit to:
 1. Find all relevant solutions we've created for them
 2. Find recommendations for other solutions currently available along with our seal of approval recommending that they use them (because we've already tried them out)
