@@ -20,6 +20,17 @@ If you decide to help support non-profits by working on Opportunity Hack this su
 # Table of contents
 1. [Outcomes](#outcomes)
 2. [Projects](#projects)
+   1. [Digitize paper forms](#1-digitize-paper-forms)
+   1. [Simple EHR](#2-simple-electronic-healthcare-records-ehr)
+   1. [Client Relationship Manager](#3-client-relationship-manager-crm)
+   1. [Risk scoring](#4-risk-scoring)
+   1. [Volunteer registration and tracking](#5-volunteer-registration-and-tracking)
+   1. [Intelligent donation platform](#6-intelligent-donation-platform)
+   1. [Inventory management system](#7-inventory-management-system)
+   1. [Notification system](#8-notification-system)
+   1. [Data analysis](#9-data-analysis)
+   1. [Best website platform](#10-recommend-the-best-website-platform-for-non-profits-to-use)
+   1. [Build opportunityhack.io](#11-create-the-new-opportunityhackio)
 3. [Schedule](#schedule)
    1. [Full schedule](#full-schedule)
    1. [Getting started](#getting-started)
@@ -187,6 +198,7 @@ This project only requires significant research in this space, you'lll need to c
 7. A solution shall allow for proper security (e.g. using Google SSO or Facebook SSO for ease of use and increased security instead of maintaining security within the website)
 8. A solution shall provide significant documentation and various platforms and a cost/benefit analysis and comparison between products.  It may be useful to develop a scoring system in various categories so that you can clearly show the winner in this manner.
 9. Uncached page load times shall be less than or equal to 3 seconds - [ref](https://www.criticalcase.com/blog/what-is-page-load-time-and-why-it-is-important.html)
+10. You should research at least 8 different alternative platforms, but no more than 20.
 ### References
 - [Cece's Hope Center](https://github.com/opportunity-hack/Arizona/issues/40), [Impact One Breast Cancer Foundation](https://github.com/opportunity-hack/Arizona/issues/41), and [Newtown CDC](https://github.com/opportunity-hack/Arizona/issues/42) all were looking for help in this area at the 2018 Opportunity Hack
 - [Animals and Humans in Disaster Inc](https://github.com/opportunity-hack/Arizona/issues/35) also needs help in this space
