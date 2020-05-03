@@ -249,7 +249,7 @@ This project only requires significant research in this space, you'lll need to c
 
 
 ## 11. Create the new OpportunityHack.io
-#️⃣ Slack channel: `#2020-vol-intern-opportunityhackio'
+#️⃣ Slack channel: `#2020-vol-intern-opportunityhackio`
 
 We use [opportunity-hack.org](http://opportunity-hack.org/) to discuss our annual, global hackathons.  As we continue to create solutions that all non-profits can use, we want to build out the NPOaaS (Non-proft as a service) platform on opportunityhack.io.  This website will allow any non-profit to:
 1. Find all relevant solutions we've created for them
