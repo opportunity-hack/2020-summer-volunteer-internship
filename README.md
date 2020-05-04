@@ -136,8 +136,10 @@ Language Processing Techniques](https://science.vu.nl/en/Images/werkstuk-biere_t
 ## 5. Volunteer registration and tracking
 #️⃣ Slack Channel: `#2020-vol-intern-volunteer-registration-and-tracking`
 
-There are a ton of non-profits that want to allow volunteers to register on their website, 
 _Still working on these details_
+
+There are a ton of non-profits that want to allow volunteers to register on their website.  Registration and signup is not new, and there is room to standardize how non-profits collect registrant data.  Volunteers and clients have a need to create an account in order to allow the non-profit to offer services or ask for help from them.  Once a volunteer is registered, they help the non-profit and their efforts need to be tracked so that the non-profit and the person can understand their contributions, for personal benefit, but also for tax reasons. 
+
 
 
 Perform market research to recommend a system for all non-profts to use.
@@ -149,7 +151,8 @@ Perform market research to recommend a system for all non-profts to use.
 5. Be able to find opportunities that are good for families
 6. Recommend volunteer opportunities based on previous experience
 ## References
-- SignupGenius 
+- SignupGenius
+- [Review our research](https://github.com/Opportunity-Hack-Sustaining/Hackathon-Runbook/blob/master/similar-to-us.md#things-for-non-profits) in volunteering tracking platforms
 
 
 ## 6. Intelligent Donation Platform
