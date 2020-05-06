@@ -109,11 +109,25 @@ Some non-profits have "clients" that require demographics and treatment to be tr
 ## 3. Client Relationship Manager (CRM)
 #️⃣ Slack Channel: `#2020-vol-intern-crm`
 
-_Still working on these details_
+This is the sister to the Lightweight EHR project above.  Instead of tracking health and progress of clients, non-profits typically do this with Excel or Google Forms and also manually integrate into DonorPerfect and other non-profit platforms.  SalesForce is the obvious leading solution here, [but still charges non-profits for use](https://www.salesforce.org/nonprofit_product/nonprofit-editions-pricing/).  Platforms like [SuiteCRM](https://suitecrm.com/) or [SpiceCRM](https://www.spicecrm.io/) and [various open-source platforms](https://blog.capterra.com/free-and-open-source-crm/) are available, but non-profits don't have IT support right next to them, they need something simple and cost-effective.  A big part of this is making different external systems integrate with this CRM (e.g. DonorPerfect + SpiceCRM), but this work will be optional for this summer project.
 
-This is the sister to the Lightweight EHR project above.  Instead of tracking health and progress of clients, non-profits typically do this with Excel or Google Forms and also manually integrate into DonorPerfect and other non-profit platforms.  SalesForce is the obvious leading solution here, [but still charges non-profits for use](https://www.salesforce.org/nonprofit_product/nonprofit-editions-pricing/).  Platforms like [SpiceCRM](https://www.spicecrm.io/) and [various open-source platforms](https://blog.capterra.com/free-and-open-source-crm/) are available, but non-profits don't have IT support right next to them, they need something simple and cost-effective.
+### Requirements
+1. The solution shall cost less than $30 per month to run
+2. The solution shall be deployable using Heroku or any other one-click deployment platform
+3. Ideally you will compare at least 3 different open-source CRM products on the market today and provide this analysis
+4. For the best solution you select, provide documentation and a video walkthrough (on YouTube) of how a non-profit would add/remove donors, volunteers, clients.
+4. For the best solution you select, provide documentation and a video walkthrough of how a non-profit would track volunteer hours within the CRM
+5. For the best solution you select, provide documentation and a video walkthrough of how a non-profit would report on volunteer hours on a weekly, monthly, quarterly, yearly basis.  Ideally a non-profit would be able to see data that shows the engagement (in terms of hours volunteered) from their volunteers
+6. For the best solution you select, provide documentation and a video walkthrough of how a non-profit would report on money donated on a weekly, monthly, quarterly, yearly basis.  Ideally a non-profit would be able to see data that shows the donation amounts from their donors.  It would be ideal if you could also report on the amount of donations from all zipcodes within the CRM.
+7. For the best solution you select, provide documentation and a video walkthrough of how a non-profit would report on the number of animals adopted each month.
+8. For the best solution you select, provide documentation and a video walkthrough of how a non-profit would import a CSV of customers/clients/donors into the platform.
+9. Optionally determine if it would be possible to integrate DonorPerfect with the best solution for a CRM you select.
+10. Optionally determine if it would be possible to integrate the best CRM you select with any donation/payments (e.g. Square, PayPal, etc.) platform so that donor data could be synchronized or imported from that platform.
 
-
+### References
+- See our [2018 ASU Poly Senior Capstone proposal](https://docs.google.com/document/d/1S4z1meOL3EO7guzRneDBUKKN84CQqMQ4kjhVNV2Zh0s/edit?usp=sharing) for background on our thoughts in this space
+- Both [Lost Our Home Pet Rescue](https://github.com/opportunity-hack/Arizona/issues/11) and [Tranquility Trail Animal Sanctuary](https://github.com/opportunity-hack/Arizona/issues/34) were looking for this in 2018, but many non-profits need to be able to organize their donors, volunteers, clients in a single location.
+- In 2015, [Seed Spot](https://github.com/opportunity-hack/Arizona/issues/4) needed a CRM to track and communicate with alumni more effectively.
 
 ## 4. Risk Scoring
 #️⃣ Slack Channel: `#2020-vol-intern-risk-scoring`
@@ -195,7 +209,7 @@ For Opportunity Hack 2018, [Children's Cancer Network](https://github.com/opport
 ### References
 - The team's DevPost submission is [here](https://devpost.com/software/easy-message)
 - Although the main code is in GitHub [here](https://github.com/2018-Arizona-Opportunity-Hack/Team19) you'll need to check the [forks](https://github.com/2018-Arizona-Opportunity-Hack/Team19/network/members) as some code there looks to be more updated in the forks.
-
+- Another solution [from Team 9 in 2018 is here](https://devpost.com/software/team9) for reference as well.
 
 
 ## 9. Data Analysis
