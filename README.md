@@ -151,23 +151,24 @@ Language Processing Techniques](https://science.vu.nl/en/Images/werkstuk-biere_t
 ## 5. Volunteer registration and tracking
 #️⃣ Slack Channel: `#2020-vol-intern-volunteer-registration-and-tracking`
 
-_Still working on these details_
-
 There are a ton of non-profits that want to allow volunteers to register on their website.  Registration and signup is not new, and there is room to standardize how non-profits collect registrant data.  Volunteers and clients have a need to create an account in order to allow the non-profit to offer services or ask for help from them.  Once a volunteer is registered, they help the non-profit and their efforts need to be tracked so that the non-profit and the person can understand their contributions, for personal benefit, but also for tax reasons. 
 
-
-
-Perform market research to recommend a system for all non-profts to use.
 ### Requirements
+Instead of trying to build a system to do this, we want to perform market research to recommend a system for all non-profts to use.  We think that a platform should already exist, but we are counting on you to weigh all of these requirements and perform a [gap analysis](https://www.clearpointstrategy.com/gap-analysis-template/) to tell us if we should build a system to do this, or if one (or maybe two systems that are well integrated) already exist.
+
 1. Be able to list times available for volunteers along with location and duration of request
-2. Be able to specify skill that is needed (e.g. painting, drywall, electrical, math tutor, etc.)
-3. Increase communication between NPO and volunteers to increase engagement
-4. Be able to find volunteer opportunities in a region
-5. Be able to find opportunities that are good for families
-6. Recommend volunteer opportunities based on previous experience
+2. Be able to specify skill that is needed (e.g. painting, drywall, electrical, math tutor, etc.).  Consider this to be a preference that the volunteer specifies when they sign up.  This may also include the opposite (volunteers specifically do not want to volunteer for certain things).
+3. Increase communication between NPO and volunteers to increase engagement.  This might be to remind a volunteer of an upcoming event, or to thank a volunteer for helping.  Ideally this would be over text, email, or Facebook Messenger.
+4. Be able to find volunteer opportunities in a region.  For example, find all volunteering opportunities for [Children's Cancer Network](https://www.childrenscancernetwork.org/) in zip code 85044.
+5. Be able to find opportunities that are good for families. For example, if a family wants to bring their 10 year-old and their 15-year old - ensure that the event indicates that this is okay or even recommended.
+6. Recommend volunteer opportunities based on previous experience.  For example, if someone has previously volunteered to help paint a home, and a new opportunity for painting a home is entered, recommend the same people for this volunteering opportunity and notify them that it is available. 
+7. Provide written documentation (either in GitHub or a public Google Doc) as well as a video (on YouTube) walkthrough of your findings.
+
 ## References
-- SignupGenius
+- [SignupGenius](https://www.signupgenius.com/)
 - [Review our research](https://github.com/Opportunity-Hack-Sustaining/Hackathon-Runbook/blob/master/similar-to-us.md#things-for-non-profits) in volunteering tracking platforms
+- [MeetUp](https://meetup.com)
+- Facebook Events
 
 
 ## 6. Intelligent Donation Platform
