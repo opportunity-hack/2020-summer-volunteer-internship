@@ -174,13 +174,26 @@ Instead of trying to build a system to do this, we want to perform market resear
 ## 6. Intelligent Donation Platform
 #️⃣ Slack channel: `#2020-vol-intern-intelligent-donations`
 
-_Still working on these details_
+Donations are a key resource for non-profits, the more funds that can be raised, the better.  We need to dig deep with this one and look for engineering methods to increase recurring donations or volume of donations.  This project is very open-ended and will require some research into human behavior as well as prototyping some software that may not exist yet.  After spending some time researching what is out there, see if you see a gap and either prototype it, write code, or write out your thoughts.
 
-Increase recurring donations or volume of donations
-### Requirements
+Some ideas:
 1. Recommend other items to donate: if someone donates a TV, ask if they also have shoes to donate
 2. Cluster similar donors together to determine alternative marketing methods that may be more effective within the cohort
+3. Automate marketing to automatically share, on a monthly basis, a photo posted to social media overlayed with the number of people helped or the number of animals saved over the previous month
+4. Survey your local network to understand if they donate to non-profits, why they donate, and what would get them to donate more
+5. Look at modern methods of donation - could a non-profit use a combination of Twitch and Patreon?
+6. How effective are crowd-funding (e.g. Indiegogo) platforms and raising money for non-profits?
+7. Can you automate signup for a non-profit so that a Kiva.org account is created along with several other fundraising platforms?
 
+### Requirements
+1. Just like with other projects, if you're writing code, store it in GitHub
+2. Create documentation along with a video walk-through (posted on YouTube) of your solution
+
+### References
+1. [9 Magic Words that Increase Donations for Nonprofits](https://donorbox.org/nonprofit-blog/magic-words-that-increase-donations/) talks about the wording that is used
+2. [7 Simple Ways To Increase Donations For Your Nonprofit](https://www.johnhaydon.com/increase-donations-nonprofit/) talks about various methods including sharing outcomes and marketing
+3. [8 Online Donation Tools: Key Software to Help You Raise More](https://blog.donately.com/online-donation-tools/) talks about different software applications that can help with donations
+4. [NeonCRM](https://www.neoncrm.com/) is apparently awesome, is that something that is easy to use that all non-profits can use?
 
 ## 7. Inventory management system
 #️⃣ Slack channel: `#2020-vol-intern-inventory`
