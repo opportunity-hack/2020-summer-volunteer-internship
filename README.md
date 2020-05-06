@@ -123,6 +123,7 @@ This is the sister to the Lightweight EHR project above.  Instead of tracking he
 8. For the best solution you select, provide documentation and a video walkthrough of how a non-profit would import a CSV of customers/clients/donors into the platform.
 9. Optionally determine if it would be possible to integrate DonorPerfect with the best solution for a CRM you select.
 10. Optionally determine if it would be possible to integrate the best CRM you select with any donation/payments (e.g. Square, PayPal, etc.) platform so that donor data could be synchronized or imported from that platform.
+11. Optionally determine how a non-profit could update their website to interact with your selection for the best CRM, where the non-profit could have a new-user registration form on their website that would store new registration data within the CRM.
 
 ### References
 - See our [2018 ASU Poly Senior Capstone proposal](https://docs.google.com/document/d/1S4z1meOL3EO7guzRneDBUKKN84CQqMQ4kjhVNV2Zh0s/edit?usp=sharing) for background on our thoughts in this space
