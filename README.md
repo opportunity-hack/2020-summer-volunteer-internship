@@ -198,15 +198,23 @@ Some ideas:
 ## 7. Inventory management system
 #️⃣ Slack channel: `#2020-vol-intern-inventory`
 
-A large set of non-profits that would benefit from a solution here are food pantries (note the difference between [a food bank and a food pantry](https://www.feedingamerica.org/hunger-blog/what-difference-between-food-bank-and-food-pantry)).  There are large food pantries who likely have all of the software they need (including an integration with [Link2Feed](https://www.link2feed.com/)), but most of the smaller food pantries won't have everything they need, but still need to provide food for their client base.  An effective, free, solution here will benefit many food pantries.
+A large set of non-profits that would benefit from a solution here are food pantries (note the difference between [a food bank and a food pantry](https://www.feedingamerica.org/hunger-blog/what-difference-between-food-bank-and-food-pantry)).  There are large food pantries who likely have all of the software they need (including an integration with [Link2Feed](https://www.link2feed.com/)), but most of the smaller food pantries won't have everything they need, but still need to provide food for their client base.  An effective, free, solution here will benefit many food pantries.  
+
+The general solution you are solving is: given a certain inventory that could be spread across many different buildings, how can a non-profit know what inventory is available in near-real-time (within 2 minutes of an item being added or removed).
 
 ### Requirements
-_Still working on these details_
+1. Your solution should have proper documentation and a video walkthrough of how to use it posted to YouTube
+2. Your solution may re-use any existing open-source solutions, and can be custom tailored to one of the non-profits listed in the references section
+3. Your solution shall be deployed using a one-click platform like Heroku
+4. Your solution may or may not require a mobile app, if you go down the barcode route, remember that most computers have a webcam these days.  By not having a website + mobile app, you reduce the complexity in your solution.
+5. If you want to go down the food pantry route, we'd recommend you look at [Pantry for Good](https://github.com/freeCodeCamp/pantry-for-good).  Even though no pull requests have been accepted in over a year, there are many forks that may have newer content.  Fixing a few bugs or improving this code-base alone would be great.
+
 
 ### References
-- [Matthew's Crossing Food Bank](https://github.com/opportunity-hack/Arizona/issues/9) received many Opportunity Hack solutions over the years to the point where they likely don't have any more problems to solve.  Unfortunately, these custom solutions cannot be generally applied to other food pantries.
-- [Child Crisis AZ](https://github.com/opportunity-hack/Arizona/issues/15) problem statement form 2016 Opportunity Hack using QR codes to track inventory
-- [Joshua Tree](https://github.com/opportunity-hack/Arizona/issues/28) also hoped to use barcodes to track inventory from 2017 Opportunity Hack
+- [Matthew's Crossing Food Bank](https://github.com/opportunity-hack/Arizona/issues/9) received many Opportunity Hack solutions over the years to the point where they likely don't have any more problems to solve.  Unfortunately, these custom solutions cannot be generally applied to other food pantries.  If you review these solutions and can integrate one or all into Pantry for Good, that would be a win.
+- [Child Crisis AZ](https://github.com/opportunity-hack/Arizona/issues/15) problem statement form 2016 Opportunity Hack using QR codes to track inventory.  We'd hope that a product that does this already exist in the market, if so, we'd love for you to find it, make it better, document it, and tell us about it!
+- [Joshua Tree](https://github.com/opportunity-hack/Arizona/issues/28) also hoped to use barcodes to track inventory from 2017 Opportunity Hack.
+- Our [senior capstone proposal](https://docs.google.com/document/d/1pstXACOkPLMMZKMsCe891kOcsq6Q4HXZ66AkZc1WPdc/edit?usp=sharing) worked on by University of Arizona students in 2018.  The output of this was a pull request made to Pantry for Good.
 
 
 ## 8. Notification system
