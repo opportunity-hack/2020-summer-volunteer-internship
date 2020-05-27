@@ -328,7 +328,7 @@ We're starting on May 8th and we're calling August 7th our end.
 
 ## Agile meetings
 ### Standups
-Every Monday and Wednesday (via Slack).  You'll be messaged by Dixi App every Monday and Wednesday to ask for status.  That status will then be shared in your team's Slack channel for everyone to see once everyone has provided their standup details.
+Every Monday and Wednesday (via Slack).  You'll be messaged by Dixi App every Monday and Wednesday to ask for status.  That status will then be shared in your team's Slack channel for everyone to see once everyone has provided their standup details.  We will be set this up for you after you create the GitHub ticket that declares your team and your project you'll be working on.
 
 Here's an example of what this will look like
 ![standup](dixi_standup.png)
