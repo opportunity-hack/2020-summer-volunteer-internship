@@ -271,6 +271,29 @@ This one is pretty straightforward.  We'd like to take an existing winning idea 
 - The documentation provided for this solution shall include a video demo walkthrough of how to use the solution
 - The documentation provided for this solution shall include the forms used as part of the demo
 
+### 9.3 Social Injustice Index
+Technical debt is a concept in software development that reflects the implied cost of additional rework caused by choosing an easy solution now that may only mitigate a portion of the problem instead of using a strategic long-term approach that would take longer and endure the test of time. Larger corporations accumulate technical debt in various ways. Over time, tech debt becomes known through fail points in the system: latency goes up, reliability goes down, or changes and deployments take longer to complete. Companies must address tech debt with a focused group of people to resolve latency. This typically works well, but as time passes, the same issue can surface again.  
+
+With social injustice, we see the same pattern. In the case of latency, a mature organization will put measurement and attribution in place to ensure that any skew in latency is quickly discovered and resolved. With social injustice, the solution is more abstract and less concrete. One goal would be to develop and maintain a social injustice index based on data surrounding social issues by leveraging current events from multiple media outlets, Twitter, Facebook, and Instagram, along with Google Trends. This would allow for some measurement to be performed at the state and national level so that trends and magnitudes across localities could be examined objectively through a data driven lens.
+
+#### Requirements
+1. Select either a method of obtaining media documents, in America, since the year 2000, or a mechanism to acquire public social media information
+2. Provide a social injustice index that ranges from 0 to 100 where 100 is extreme social injustice and 0 is no record of social injustice
+3. Calculate this index on a daily basis for the previous day in an automated fashion
+4. Backfill this calculation ideally since 2000, but at least for the last 10 years
+5. Chart this index as an overall score for the United States of America
+6. Chart this index as a score at the state level, ideally you collect enough information from each state to be able to do this, but to make things easier as an MVP, try to do this for at least 5 randomly-selected states.
+7. Ensure the code you write is available in our public GitHub
+8. Allow for this to be ran by a single click using a platform like Heroku
+
+#### References
+- [INSTRUMENTS MEASURING PERCEIVED RACISM/RACIAL DISCRIMINATION: REVIEW AND CRITIQUE OF FACTOR ANALYTIC TECHNIQUES](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4389587/)
+- [The Conceptualization and Measurement of Symbolic Racism](https://www.researchgate.net/publication/227529136_The_Conceptualization_and_Measurement_of_Symbolic_Racism)
+- [Measuring Discrimination Resource](https://scholar.harvard.edu/files/davidrwilliams/files/measuring_discrimination_resource_june_2016.pdf)
+- [Using Twitter for Demographic and Social Science Research: Tools for Data Collection and Processing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5639727/)
+- [Capturing and mapping quality of life using Twitter data](https://link.springer.com/article/10.1007/s10708-018-9960-6)
+- [How Many People Live in Political Bubbles on Social Media? Evidence From Linked Survey and Twitter Data](https://journals.sagepub.com/doi/10.1177/2158244019832705)
+
 
 ## 10. Recommend the best website platform for non-profits to use
 #️⃣ Slack channel: `#2020-vol-intern-best-website-platform`
