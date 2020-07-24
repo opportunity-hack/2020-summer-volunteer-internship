@@ -31,6 +31,7 @@ If you decide to help support non-profits by working on Opportunity Hack this su
    1. [Data analysis](#9-data-analysis)
    1. [Best website platform](#10-recommend-the-best-website-platform-for-non-profits-to-use)
    1. [Build opportunityhack.io](#11-create-the-new-opportunityhackio)
+   1. [Virtual fundraisers](#12-virtual-fundraisers)
 3. [Schedule](#schedule)
    1. [Full schedule](#full-schedule)
    1. [Getting started](#getting-started)
