@@ -333,6 +333,21 @@ One key thing that limits productivity of non-profits are separate systems that 
 - This [article on technologyadvice.com](https://technologyadvice.com/nonprofit/) discusses the various software platforms available to non-profits.  You can see the struggle that non-profits have with various CRM, donor management, email marketing, and accounting platforms.
 - This [Medium article](https://medium.com/verticalchangehq/saas-for-nonprofit-3a5a70099824) also discusses the challenges that many non-profits face.
 
+## 12. Virtual Fundraisers
+COVID-19 has people staying home and away from groups of people, so avenues like fundraisers are unable to be a stream of income for non-profits.  We need innovative ideas that will get people to donate virtually and online that hopefully also have a viral or gamification element to get people engaged.
+
+### Requirements
+0. Like all of the other projects, your code needs to be publically available in GitHub with your project deployed using Heroku (or similar) so that people can use what you have built.
+1. Most states disallow the concept of a lottery for fundraising, do not create a lottery system as this will likely be illegal.
+2. Provide a demo video that walks people through what you have built.
+3. Ensure that there is documentation and ease of setup for a non-profit to be able to set this up within 10 minutes.
+4. Create the ability for your application to be use with both a test/sandbox account and a live account for the payments system (e.g. PayPal, Venmo) you select
+
+### References
+- [CauseVox](https://www.causevox.com/blog/gamification-online-fundraising/) discusses the reasons for gamification that include progress bars, badges, sharing on social media, , and team-based donations
+- [Non-Profit Hub](https://nonprofithub.org/fundraising/4-nonprofits-that-gamified-their-funding-and-tips-for-you-to-copy/) has some examples of how non-profits have gamified fundraisers
+
+
 
 # Schedule
 ## Full Schedule
