@@ -347,6 +347,7 @@ COVID-19 has people staying home and away from groups of people, so avenues like
 ### References
 - [CauseVox](https://www.causevox.com/blog/gamification-online-fundraising/) discusses the reasons for gamification that include progress bars, badges, sharing on social media, , and team-based donations
 - [Non-Profit Hub](https://nonprofithub.org/fundraising/4-nonprofits-that-gamified-their-funding-and-tips-for-you-to-copy/) has some examples of how non-profits have gamified fundraisers
+- [FundDuel](https://fundduel.com/) is a platform that uses social media to encourage donations by performing challenges while recording yourself
 
 
 
